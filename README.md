@@ -73,7 +73,7 @@ Projects that mostly deal with Artificial Intelligence or Machine Learning. Idea
   - [Video Subtitle Generator](#video-subtitle-generator)
   - [Automatic Logo Generator](#automatic-logo-generator)
   - [Movie Recommendation System](#movie-recommendation-system)
-  - [Audio to Sign Language Translator](#audio-to-sign-laguage-translator)
+  - [Audio to Sign Language Translator](#audio-to-sign-language-translator)
 ### Theoretical Computer Science  
 Projects that provide a deeper insight into the inner workings of many CS related stuff that you may be using knowingly or unknowingly in your daily life.  
   - [Build an OS](#build-an-os)
