@@ -64,7 +64,7 @@ Proper software or application suggestions that you may even end up using in you
   - [Relational Database Management System](#relational-database-management-system)
 ### Artificial Intelligence  
 Projects that mostly deal with Artificial Intelligence or Machine Learning. Ideal to showcase on your portfolio if you are thinking of apply for any AI related jobs or programs.  
-  - [Face Tracking](#face tracker)
+  - [Face Tracking](#face-tracker)
   - [Spam Classifier](#spam-classifier)
   - [Spoiler Blocker](#spoiler-blocker)
   - [Music Suggestor](#music-suggestor)
