@@ -113,7 +113,7 @@ All work and no play makes jack a dull boy! Games are a must to enjoy and learn 
   - [Elevator Simulator](#elevator-simulator)
   - [Simulate the World](#simulate-the-world)
   - [Character Generator](#character-generator)
-  - [Conway's Game of Life](#conways-game-of-life)
+  - [Conway's Game of Life](#game-of-life)
 ### Miscellaneous  
 These were alone in their own categories and I didn't want them to feel alone, so I pooled them together.  
   - [Deal Finder](#deal-finder)
